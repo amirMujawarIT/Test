@@ -28,7 +28,7 @@ namespace TestDemo.Controllers
 
         public AccountController()
         {
-            //my Comment
+            //This is Comment
         }
 
         public AccountController(ApplicationUserManager userManager,
